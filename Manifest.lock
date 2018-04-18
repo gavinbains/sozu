@@ -1,0 +1,16 @@
+PODS:
+  - ChainableAnimations (3.0.1)
+
+DEPENDENCIES:
+  - ChainableAnimations (~> 3.0.1)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - ChainableAnimations
+
+SPEC CHECKSUMS:
+  ChainableAnimations: 12e0a88e72fb554ad4cda38c40474e4d65c972a2
+
+PODFILE CHECKSUM: eb655c104aa1ed56fbd7f076a256365ba135ee1b
+
+COCOAPODS: 1.5.0
